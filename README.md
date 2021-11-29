@@ -1,5 +1,4 @@
-# DO-case3
-Case 3: Dansk Industri 
+# DO-case3 Dansk Industri 
  
  Af Anders Reinholdt Sindberg & Albert Neve Alsbjerg
 
